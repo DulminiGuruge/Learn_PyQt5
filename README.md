@@ -1,6 +1,6 @@
 ## PyQt5
 
-#### Create the virtual environment for PyQt5
+### Create the virtual environment for PyQt5
 
 First create a virtual environment using the below command in the terminal.
 
